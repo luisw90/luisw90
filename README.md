@@ -9,6 +9,5 @@
   </a>
 </div>
 
-### I was previously an architect 
-
-<img src="" alt=""/>
+### About me
+i was previously an architect but decided to switch carriers to pursue my passion in tech.
