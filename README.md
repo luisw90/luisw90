@@ -10,12 +10,6 @@
 </div>
 
 
-### i was previously an architect
-
-<div align="center">
-    <img width="859" alt="test" src="https://github.com/luisw90/luisw90/assets/116962905/430fc489-9a6c-4bdd-b6da-56f59d6069a6">
-</div>
-
 ### About me
 i was previously an architect but decided to switch carriers to pursue my passion in tech.
 
