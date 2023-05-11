@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a former architect that decided to switch carriers to follow my passiion in tech!
+<h1 id="header" align="center">Full Stack Web Developer </h1>
+<h3 id="header" align="center"> Javascript / Typescript </h3>
+I was previously an architect but decided to switch carriers to follow my passiion in tech!
 
 <!--
 **luisw90/luisw90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
