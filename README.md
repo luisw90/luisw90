@@ -11,7 +11,9 @@
 
 
 ### About me
-I’m a Full-stack Developer focusing on JavaScript and TypeScript. I’m passionate about applying technology in creative ways, as well as building amazing apps & services. Previously worked as an architect & changed careers to follow my passion for tech.
+I’m a Full-stack Developer focusing on JavaScript and TypeScript. 
+I’m passionate about applying technology in creative ways, as well as building amazing apps & services. 
+Previously worked as an architect & changed careers to follow my passion for tech.
 
 
 ### Languages and tools
