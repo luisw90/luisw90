@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a former architect that decided to switch carriers to follow my passiion in tech!
+
 <!--
 **luisw90/luisw90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
